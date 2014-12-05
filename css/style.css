@@ -1,0 +1,399 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+.nav-pills > li.active > a {
+    background-color: #fff;
+    color: #87509c;
+}
+
+#welcome {
+    background-color: #87509c;  
+    padding-top: 3%;
+    font-family: 'Titillium-Web', sans-serif;
+}
+
+#logo {
+   padding-left: 5%; 
+}
+
+#menu{
+    padding-right: 5%; 
+    font-size: 137.5%;
+}
+
+#main_navigation li, a {
+    display: inline; 
+    color: #efe8f2;
+    font-size: 15pt;
+}
+
+#main_navigation a:hover {
+    background-color: #643a79;
+    color: #efe8f2;
+}
+
+#welcome_text {
+    font-size: 225%;
+    padding: 7.5% 5% 7.5% 5%;
+    text-align: center;
+    font-weight: bold;
+    color: #f7f3ea;
+}
+
+#welcome_button {
+     width: 25%;;
+     background-color: #c86a40;
+     font-size: 40%;
+     font-weight: bold;
+}
+
+#services {
+    background-color: #17c2a4;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #f7f3ea;
+}
+
+#services-bg{
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#services-header{
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #f7f3ea;
+    font-weight: bold;
+}
+
+#services-line {
+    margin: 1% auto;
+    background-color: #14a58c;
+    width: 6%;
+    height: 3px;
+}
+
+#services-content {
+    margin-top: 6%;   
+}
+
+#services-content img {
+    margin-top: 6%;
+    height: 130px;
+}
+
+#services-caption{
+    margin-top: 40px; 
+    font-weight: bold;
+}
+
+#team {
+    background-color: #e7f1f8;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #3c4761;
+}
+
+#team-bg{
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#team-header{
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #3c4761;
+    font-weight: bold;
+}
+
+#team-line {
+    margin: 1% auto;
+    background-color: #c8d9e5;
+    width: 6%;
+    height: 3px;
+}
+
+#team-content {
+    margin-top: 6%;   
+}
+
+#team-content img {
+    margin-top: 4%;
+    height: 130px;
+}
+
+#team-caption{
+    margin-top: 20px; 
+    font-weight: bold;
+}
+
+#team-job {
+    margin-top: 4px;  
+    color: #30bae7;
+}
+
+#team-social-icons li {
+    display: inline;
+}
+
+#team-social-icons img {
+    width: 32px;
+    height: 32px;
+}
+
+#skills {
+    background-color: #fff;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #3c4761;
+}
+
+#skills-bg{
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#skills-header{
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #3c4761;
+    font-weight: bold;
+}
+
+#skills-line {
+    margin: 1% auto;
+    background-color: #dfe8ed;
+    width: 6%;
+    height: 3px;
+}
+
+#skills-content {
+    margin-top: 6%;   
+}
+
+#skills-content img {
+    margin-top: 4%;
+    height: 130px;
+}
+
+#skills-caption{
+    margin-top: 40px; 
+    font-weight: bold;
+}
+
+#portfolio {
+    background-color: #ffdd99;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #6e6553;
+}
+
+#portfolio-bg {
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#portfolio-header {
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #6e6553;
+    font-weight: bold;
+}
+
+#portfolio-line {
+    margin: 1% auto;
+    background-color: #ebc985;
+    width: 6%;
+    height: 3px;
+}
+
+#portfolio-content {
+    margin-top: 5%;   
+}
+
+#portfolio-content img {
+    width: 100%;
+}
+
+#portfolio-caption {
+    margin-top: 20px; 
+    font-weight: bold;
+}
+
+#portfolio-nav {
+    text-align: center; 
+    margin-left: 35%;
+}
+
+#portfolio-li {
+    display: inline;
+    color: #6e6553;
+    background-color: #ebc985;
+}
+
+#portfolio-li:hover {
+    background-color: #fff;
+}
+
+#portfolio_button {
+     width: 25%;;
+     background-color: #17c2a4;
+     font-size: 80%;
+     font-weight: bold;
+}
+
+#testimonials {
+    background-color: #d74680;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #fff;
+}
+
+#testimonials-bg{
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#testimonials-header{
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #fff;
+    font-weight: bold;
+}
+
+#testimonials-line {
+    margin: 1% auto;
+    background-color: #b73c6d;
+    width: 6%;
+    height: 3px;
+}
+
+#testimonials-content {
+    margin-top: 4%;
+    text-align: left;
+    font-style: italic;
+}
+
+#testimonials-content img {
+    margin-top: -2%;
+    float: left;
+    width: 20%;
+    padding-right: 7%;
+    padding-bottom: 40px;
+}
+
+#testimonials-caption {
+    font-weight: bold;
+    font-style: normal;
+}
+
+#portfolio {
+    background-color: #ffdd99;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #6e6553;
+}
+
+#portfolio-bg {
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#portfolio-header {
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #6e6553;
+    font-weight: bold;
+}
+
+#portfolio-line {
+    margin: 1% auto;
+    background-color: #ebc985;
+    width: 6%;
+    height: 3px;
+}
+
+#portfolio-content {
+    margin-top: 5%;   
+}
+
+
+
+#portfolio_button {
+     width: 25%;;
+     background-color: #17c2a4;
+     font-size: 80%;
+     font-weight: bold;
+}
+
+#in-touch {
+    background-color: #3c5499;
+    padding: 5% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #fff;
+}
+
+#in-touch-bg {
+    padding: 0 5%;  
+    text-align: center;
+}
+
+#in-touch-header {
+    text-align: center;
+    font-size: 125%;
+    letter-spacing: 0.1em;
+    color: #fff;
+    font-weight: bold;
+}
+
+#in-touch-line {
+    margin: 1% auto;
+    background-color: #ebc985;
+    width: 6%;
+    height: 3px;
+}
+
+#in-touch-content {
+    text-align: center;
+}
+
+#in-touch_button {
+     margin-top: 3%;
+     width: 25%;;
+     background-color: #30bae7;
+     font-size: 80%;
+     font-weight: bold;
+     outline: 0;
+}
+
+#in-touch-area {
+     margin-top: 2%; 
+}
+
+#footer {
+    background-color: #344b8e;
+    padding: 2% 0;
+    font-family: 'Titillium-Web', sans-serif;
+    color: #fff;
+}
+
+#footer-bg {
+    padding: 0 5%;  
+    text-align: center;
+}
+
+.footer-nav {
+    color: #fff;
+    display: inline;
+    padding: 0 3%;
+}
+
+.footer-nav a:hover {
+     color: #30bae7;   
+     text-decoration: none;
+}
